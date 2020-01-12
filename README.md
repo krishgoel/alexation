@@ -12,6 +12,8 @@ This is the Instructable that I followed but to put it into perspective
 
 Please feel free to contact me in  case of any queries :)
 <br>
+<br>
+<br>
 <hr>
 <br>
 <p align="center">
