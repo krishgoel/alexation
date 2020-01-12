@@ -13,6 +13,5 @@ This is the Instructable that I followed but to put it into perspective
 Please feel free to contact me in  case of any queries :)
 
 <p align="center">
-Krish
+  ```Made with ❤️ and a few lines of code by KrishSkywalker```
 </p>
-```Made with ❤️ and a few lines of code by KrishSkywalker```
