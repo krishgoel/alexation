@@ -11,11 +11,3 @@ This is the Instructable that I followed but to put it into perspective
 - In the circuit schema, the battery represents any power input. Shoutout to [Fritzing](https://fritzing.org/) for helping me make circuit schemas with ease.
 
 Please feel free to contact me in  case of any queries :)
-<br>
-<br>
-<br>
-<hr>
-<br>
-<p align="center">
-  <b>Made with ❤️ and a few lines of code by KrishSkywalker and YashDeswak</b>
-</p>
